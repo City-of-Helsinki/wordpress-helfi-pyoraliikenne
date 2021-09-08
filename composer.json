@@ -1,0 +1,10 @@
+{
+  "name": "city-of-helsinki/pyoraliikenne",
+	"description": "Theme based on Roots Sage",
+  "type": "wordpress-theme",
+	"version": "master",
+	"require": {
+    "wecodemore/wpstarter": "~2.0",
+    "johnpbloch/wordpress-core": ">5.0"
+  }
+}
